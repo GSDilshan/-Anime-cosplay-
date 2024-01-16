@@ -1,0 +1,22 @@
+[
+    { 
+        "iconUrl": "https://yugenanime.sx/static/img/favicon-32x32.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "fileSize": 19622,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 7,
+        "internalName": "YugenAnime",
+        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/YugenAnime.cs3",
+        "name": "YugenAnime"
+    }
+]
